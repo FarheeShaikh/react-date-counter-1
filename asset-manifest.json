@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-date-counter-1/static/css/main.7c197f91.css",
+    "main.js": "/react-date-counter-1/static/js/main.cc85576b.js",
+    "index.html": "/react-date-counter-1/index.html",
+    "main.7c197f91.css.map": "/react-date-counter-1/static/css/main.7c197f91.css.map",
+    "main.cc85576b.js.map": "/react-date-counter-1/static/js/main.cc85576b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c197f91.css",
+    "static/js/main.cc85576b.js"
+  ]
+}
