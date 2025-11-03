@@ -17,13 +17,13 @@ function Counter() {
   date.setDate(date.getDate() + count);
 
   return (
-    <div>
-      <div>
+    <div className="counter">
+      <div className="controls">
         <button onClick={() => setStep((c) => c - 1)}>-</button>
         <span> Step : {step} </span>
         <button onClick={() => setStep((c) => c + 1)}>+</button>
       </div>
-      <div>
+      <div className="controls">
         <button onClick={() => setCount((c) => c - step)}>-</button>
         <span> Count : {count} </span>
         <button onClick={() => setCount((c) => c + step)}>+</button>
