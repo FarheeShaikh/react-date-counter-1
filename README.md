@@ -41,7 +41,7 @@ If you want to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/FarheenShaikh/react-date-counter-1.git
+git clone https://github.com/FarheeShaikh/react-date-counter-1.git
 
 # Navigate to the project folder
 cd react-date-counter-1
